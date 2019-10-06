@@ -1,0 +1,36 @@
+*
+{
+    color : white;
+}
+body, .modal-content, .dropdown-menu
+{
+    background-color: rgb(26,26,26);
+}
+body
+{
+    background-color: white;
+    background-repeat: no-repeat;
+
+    background-position: center;
+}
+h1, .dropdown-item
+{
+    color: white;
+}
+img
+{
+    border-radius: 40%;
+    margin: 5px;
+}
+button
+{
+    margin: 2px;
+}
+.warning
+{
+    color: red;
+}
+#alert, .alert
+{
+    background-color: red;
+}
