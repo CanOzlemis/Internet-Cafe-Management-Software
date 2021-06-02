@@ -1,7 +1,7 @@
 <?php 
 
 $servername = "localhost";
-$database = "magara_db";
+$database = "tablemanagement";
 $username = "root";
 $password = "";
 // Create connection
